@@ -1,6 +1,6 @@
 # Password-Generator
 
-https://www.orionpalmer.com/Password%20Generator/index.html
+https://www.orionpalmer.com/projects/PasswordGenerator/index.html
 
 HTML | CSS | JavaScript
 
